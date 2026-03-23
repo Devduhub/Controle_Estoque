@@ -41,6 +41,7 @@
 ## Observação
 - Se não tem OpenAI key no ambiente, envie JSON no chat com campo `openai_api_key` antes do texto.
 
-## Contato 
-[LinkedIn](https://www.linkedin.com/in/automatizadu/)
-seu@email.com  →  eduardosilvapsn1@gmail.com
+## 👨‍💻 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-automatizadu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/automatizadu/)
+[![Gmail](https://img.shields.io/badge/Gmail-eduardosilvapsn1-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduardosilvapsn1@gmail.com)
