@@ -1,3 +1,15 @@
+<div align="center">
+
+<img src="banner.svg" width="100%" alt="Bot Antishock Estoque"/>
+
+[![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![Telegram](https://img.shields.io/badge/Telegram-Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://core.telegram.org)
+[![OpenAI](https://img.shields.io/badge/OpenAI-Whisper-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com)
+[![Make](https://img.shields.io/badge/Make-Automation-6D00CC?style=for-the-badge&logo=make&logoColor=white)](https://make.com)
+[![Status](https://img.shields.io/badge/Status-Producao-00C853?style=for-the-badge)](#)
+
+</div>
+
 # Bot Antishock Estoque
 
 ## Requisitos
@@ -28,3 +40,7 @@
 
 ## Observação
 - Se não tem OpenAI key no ambiente, envie JSON no chat com campo `openai_api_key` antes do texto.
+
+## Contato 
+[LinkedIn](https://www.linkedin.com/in/automatizadu/)
+seu@email.com  →  eduardosilvapsn1@gmail.com
