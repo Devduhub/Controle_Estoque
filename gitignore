@@ -1,0 +1,52 @@
+# =============================================
+# .gitignore — Bot Antishock Estoque
+# =============================================
+
+# Variáveis de ambiente — NUNCA subir para o Git
+.env
+*.env
+.env.local
+.env.production
+
+# Arquivos compilados Python
+__pycache__/
+*.py[cod]
+*.pyc
+*.pyo
+*.pyd
+
+# Ambientes virtuais
+venv/
+env/
+.venv/
+.env/
+
+# IDEs e editores
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+logs/
+
+# Arquivos temporários de áudio (usados na transcrição)
+*.ogg
+*.mp3
+*.wav
+*.m4a
+
+# Node
+node_modules/
+npm-debug.log*
+
+# Distribuição Python
+dist/
+build/
+*.egg-info/
